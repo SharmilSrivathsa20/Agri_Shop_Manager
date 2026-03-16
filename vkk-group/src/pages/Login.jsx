@@ -42,7 +42,7 @@ function Login() {
       <div className="bg-white p-10 rounded-xl shadow-xl w-96">
 
         <img
-          src="/VKK.png"
+          src="../VKK.png"
           alt="VKK Logo"
           className="w-24 mx-auto mb-4"
         />
