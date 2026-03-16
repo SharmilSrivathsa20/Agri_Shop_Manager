@@ -81,7 +81,7 @@ Clone the repository
 
 ---
 git clone https://github.com/yourusername/agroshop-manager.git
-```
+---
 
 Navigate into project folder
 
