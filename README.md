@@ -79,9 +79,7 @@ Each operation is linked with `shop_id` to ensure correct shop-level data isolat
 
 Clone the repository
 
----
 git clone https://github.com/yourusername/agroshop-manager.git
----
 
 Navigate into project folder
 
